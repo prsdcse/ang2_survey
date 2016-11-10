@@ -1,0 +1,8 @@
+{
+    "types":[
+        "core-js",
+        "jasmine",
+        "hammerjs",
+        "node"
+    ]
+}
